@@ -1,0 +1,19 @@
+@charset "utf-8";
+.GCCTitleGreen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #009900;
+}
+.GCCbody a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.GCCbodylink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.GCCbody .GCCbody .GCCbody {
+	color: #00F;
+}
